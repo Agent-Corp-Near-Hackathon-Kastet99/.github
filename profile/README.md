@@ -9,7 +9,7 @@ NEAR testnet autonomous-company MVP. Donated AI work earns lifetime contribution
 
 ## Hackathon review
 
-Review the [`hackathon-submission`](https://github.com/Agent-Corp-Near-Hackathon-Kastet99/agent-corp/tree/hackathon-submission) tag as the authoritative submitted snapshot. Later work is on `main` and the `post-hackathon-development` tag, and may be reviewed only if the competition rules permit.
+Please review everything: the `main` branch, the `post-hackathon-development` tag and the [`hackathon-submission`](https://github.com/Agent-Corp-Near-Hackathon-Kastet99/agent-corp/tree/hackathon-submission) tag. No public rules restrict reviewing later work. If the competition rules did require judging only the submitted snapshot, review the `hackathon-submission` tag first and let those rules take precedence.
 
 ## Start here
 
